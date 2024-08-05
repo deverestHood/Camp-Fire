@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to analyze and quantify vegetation recovery following the 2018 Camp Fire in California. Using Landsat 8 satellite imagery, the project performs NDVI analysis to visualize changes in vegetation and calculates the difference in vegetation area between images over time. As part of this change detection analysis, satellite images from before, during, and after the fire (recovery period) were analyzed. The recovery image sequence includes images for +32, +65, +112, and +144 days (inclusive) after the Camp Fire was extinguished on 2018-11-25 to assess how well vegetation recovered from the wildfire. The project utilizes Google Earth Engine (GEE) and Folium to conduct spatial analysis and visualization of changes in vegetation area for the Butte County region.
+This project aims to analyze and quantify vegetation recovery following the 2018 Camp Fire in California. Using Landsat 8 satellite imagery, the project performs NDVI analysis to visualize changes in vegetation and calculates the difference in vegetation area between images over time. As part of this change detection analysis, satellite images from before, during, and after (recovery period) the fire were analyzed. The recovery image sequence includes images for +32, +65, +112, and +144 days (inclusive) after the Camp Fire was extinguished on 2018-11-25 to assess how well vegetation recovered from the wildfire. The project utilizes Google Earth Engine (GEE) and Folium to conduct spatial analysis and visualization of changes in vegetation area for the Butte County region.
 
 ## The Camp Fire: California's Deadliest Wildfire
 The morning of November 8, 2018 brought strong winds during a critically dry point in California's wildfire season.
